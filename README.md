@@ -31,9 +31,7 @@ I'm a React Frontend Web-Developer from Russian Federation. I really enjoy learn
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://user-images.githubusercontent.com/71073510/183251801-6425d5e7-a672-4d04-ae95-7c032786b32b.svg" />
 
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 
 
 
