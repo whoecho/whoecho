@@ -9,9 +9,10 @@ I'm a React Frontend Web-Developer from Russian Federation. I really enjoy learn
 
 ### My Skills and Experience
 * ⚛ React
-* 🦾 avaScript
+* 🦾 JavaScript
 * 🔧 HTML
 * 💅 CSS
+* ![asd](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white.png)
 
 
 ### My Skills and Experience
