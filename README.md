@@ -1,4 +1,4 @@
-![React banner](https://miro.medium.com/max/1050/1*hXl50BRdOLpOsNhxbT9rYQ.jpeg)
+![WhoEcho-06-08-2022](https://user-images.githubusercontent.com/71073510/183250510-b5fcb914-72dc-42c6-a272-e0ff020c3fb5.png)
 
 
 
