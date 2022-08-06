@@ -5,7 +5,7 @@
 
 ### What's up! My name is Vasily aka WhoEcho.
 I'm a React Frontend Web-Developer from Russian Federation. I really enjoy learning React and JS, as well I work with FireBase. I also have unique insight into  ui, ux, and design in general. Also I gained a huge experience in Adobe Photoshop and Figma, by designing my projects.
-<div align="center">
+
 
 ### My Skills and Experience
 ![1](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -16,7 +16,7 @@ I'm a React Frontend Web-Developer from Russian Federation. I really enjoy learn
 ![7](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![5](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
+
 
 ### You can always contact me there:
 
