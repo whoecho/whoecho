@@ -21,8 +21,8 @@ I'm a React Frontend Web-Developer from Russian Federation. I really enjoy learn
 ### You can always contact me there:
 
 
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://t.me/whoecho">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://user-images.githubusercontent.com/71073510/183251994-09f7dd9f-f93c-4345-b58b-1a3041a6a888.svg" />
 </a>
 <a href="https://discord.gg/XGEFkqhEC6">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
