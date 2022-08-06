@@ -28,12 +28,11 @@ I'm a React Frontend Web-Developer from Russian Federation. I really enjoy learn
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://user-images.githubusercontent.com/71073510/183251742-a20218a8-0a16-44e9-949f-89692fdcc8b9.png" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 
 
 
