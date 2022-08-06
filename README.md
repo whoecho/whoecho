@@ -8,7 +8,7 @@ I'm a React Frontend Web-Developer from Russian Federation. I really enjoy learn
 
 
 ### My Skills and Experience
-* React <img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" /> 
+* React ![1](https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white)
 * 🦾 JavaScript
 * 🔧 HTML
 * 💅 CSS
