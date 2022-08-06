@@ -1,11 +1,19 @@
+![React banner](https://miro.medium.com/max/1050/1*hXl50BRdOLpOsNhxbT9rYQ.jpeg)
+
+
+
+
 ### What's up! My name is Vasily.
 I'm a React Frontend Web-Developer from Russian Federation. I really enjoy learning React and JS, as well I work with FireBase. I also have unique insight into  ui, ux, and design in general. Also I gained a huge experience in Adobe Photoshop and Figma, by designing my projects.
+
 
 ### My Skills and Experience
 * ⚛ React
 * 🦾 avaScript
-* 🔧 TML
+* 🔧 HTML
 * 💅 CSS
+
+
 ### My Skills and Experience
 
 
