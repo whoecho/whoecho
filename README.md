@@ -16,7 +16,7 @@ I'm a React Frontend Web-Developer from Russian Federation. I really enjoy learn
 ![7](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![5](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### My Skills and Experience
+
 
 
 
