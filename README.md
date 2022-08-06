@@ -3,7 +3,7 @@
 
 
 
-### What's up! My name is Vasily.
+### What's up! My name is Vasily aka WhoEcho.
 I'm a React Frontend Web-Developer from Russian Federation. I really enjoy learning React and JS, as well I work with FireBase. I also have unique insight into  ui, ux, and design in general. Also I gained a huge experience in Adobe Photoshop and Figma, by designing my projects.
 
 
