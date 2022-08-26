@@ -1,4 +1,4 @@
-<center>![WhoEcho-06-08-2022](https://user-images.githubusercontent.com/71073510/186859963-39177086-a4f3-4280-980d-e12f26b9a247.png)</center>
+![WhoEcho-06-08-2022](https://user-images.githubusercontent.com/71073510/186859963-39177086-a4f3-4280-980d-e12f26b9a247.png)
 
 
 
