@@ -30,19 +30,7 @@ I'm a React Frontend Web-Developer from Russian Federation. I really enjoy learn
 ![14](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![14](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-### You can always contact me there:
 
-
-<a href="https://t.me/whoecho">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://user-images.githubusercontent.com/71073510/183251994-09f7dd9f-f93c-4345-b58b-1a3041a6a888.svg" />
-</a>
-<a href="https://discord.gg/XGEFkqhEC6">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://vk.com/id738335183">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://user-images.githubusercontent.com/71073510/183251801-6425d5e7-a672-4d04-ae95-7c032786b32b.svg" />
-
-</a>
 
 
 
@@ -55,7 +43,7 @@ I'm a React Frontend Web-Developer from Russian Federation. I really enjoy learn
 
 
 <!--
-**vasilykhromykh/vasilykhromykh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*s a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
